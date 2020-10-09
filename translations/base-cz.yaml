@@ -169,12 +169,12 @@ dialogs:
             <strong>ostatní klávesové zkratky</strong>!<br><br> <code
             class='keybinding'>CTRL</code> + Táhnout: Vybrání oblasti.<br> <code
             class='keybinding'>SHIFT</code>: Podržením můžete umístit více budov
-            za sebout.<br> <code class='keybinding'>ALT</code>: Změnit orientaci
+            za sebou.<br> <code class='keybinding'>ALT</code>: Změnit orientaci
             umístěných pásů.<br>"
     createMarker:
         title: Nová značka
-        desc: Give it a meaningful name, you can also include a <strong>short
-            key</strong> of a shape (Which you can generate <link>here</link>)
+        desc: Použijte smysluplný název, můžete také zahrnout <strong>krátký
+            klíč</strong> tvaru (Ten můžete vygenerovat <link>zde</link>)
         titleEdit: Upravit značku
     markerDemoLimit:
         desc: V ukázce můžete vytvořit pouze dvě značky. Získejte plnou verzi pro
